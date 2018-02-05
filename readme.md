@@ -30,11 +30,11 @@ Another interesting project I also want to share is the finding_pi project. By u
 https://github.com/zioutang/test_Pi
 
 Some other front-end projects (demo is listed on each repo):
-https://github.com/zioutang/redux_challenge__
-https://github.com/zioutang/test_beam__
-https://github.com/zioutang/test_hb__
-https://github.com/zioutang/t_capital__
-https://github.com/zioutang/ctf-editor__
+https://github.com/zioutang/redux_challenge<br />
+https://github.com/zioutang/test_beam<br />
+https://github.com/zioutang/test_hb<br />
+https://github.com/zioutang/t_capital<br />
+https://github.com/zioutang/ctf-editor<br />
 
 A startup idea of building an online streaming educational platform (not yet finished):
 https://Eduprototyping.herokuapp.com
