@@ -17,7 +17,7 @@ I don't know Python. I somehow figured out the math equation. Then I rewrite the
 node q2.js
 ```
 ## Q3
-Reading a simple file 'confucius.txt' and the print out each line in random order.
+Reading a simple file 'confucius.txt', and then print out each line in random order.
 ```
 node q3.js < confucius.txt
 ```
