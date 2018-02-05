@@ -1,22 +1,21 @@
 {
-  "name": "jmh-slack-scheduler",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon slackBot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HenryZuo/JMH-Slack-Scheduler.git"
+    "url": "git+https://github.com/zioutang/test_remeet"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HenryZuo/JMH-Slack-Scheduler/issues"
+    "url": "https://github.com/zioutang/test_remeet/issues"
   },
-  "homepage": "https://github.com/HenryZuo/JMH-Slack-Scheduler#readme",
+  "homepage": "https://github.com/zioutang/test_remeet#readme",
   "dependencies": {
     "unirest": "^0.5.1"
   }

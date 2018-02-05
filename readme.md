@@ -13,7 +13,10 @@ node q1.js
 ```
 ## Q2
 I don't know Python. I somehow figured out the math equation. Then I rewrite the function in javascript in O(n) time and O(1) space. Cannot really figure out a better way to improve the mathematical calculation though.
-
+Reading a simple file 'confucius.txt' and the print out each line in random order.
+```
+node q2.js
+```
 ## Q3
 Reading a simple file 'confucius.txt' and the print out each line in random order.
 ```
